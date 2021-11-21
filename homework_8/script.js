@@ -20,7 +20,7 @@ function makeFibonacciFunction() {
     return calc;
 }
 
-let fibonacci = makeFibonacciFunction();
+const fibonacci = makeFibonacciFunction();
 
 fibonacci();
 fibonacci();
